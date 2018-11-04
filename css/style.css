@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display|Spicy+Rice");
 body {
   margin: 0;
   padding: 0;
@@ -24,6 +25,9 @@ nav ul li a {
 .active {
   border: #000 solid 1px;
   border-radius: 5px;
+}
+.landing-title {
+  font-family: "Playfair Display", serif;
 }
 .search {
   display: block;
